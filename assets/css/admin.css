@@ -1,0 +1,11 @@
+.academy_container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px 30px;
+    background: #fff;
+    border-radius: 5px;
+    margin-top: 50px;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    border: 1px solid #ddd;
+}

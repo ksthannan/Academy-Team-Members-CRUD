@@ -1,0 +1,20 @@
+{
+    "name": "academy/teammembers",
+    "description": "Manage lists and all the informations for team members.",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "academy\\teammembers\\": "inc/"
+        },
+        "files": [
+            "inc/Functions.php"
+          ]
+    },
+    "authors": [
+        {
+            "name": "ksthannan",
+            "email": "abdulhannan.kum@gmail.com"
+        }
+    ],
+    "require": {}
+}
